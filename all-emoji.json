@@ -109,9 +109,9 @@
   },
   {
     "id": 19,
-    "emoji": "☺",
-    "name": "smiling face",
-    "unicode": "U+263A"
+    "emoji": "🫠",
+    "name": "melting face",
+    "unicode": "U+1FAE0"
   },
   {
     "id": 20,
@@ -403,9 +403,9 @@
   },
   {
     "id": 68,
-    "emoji": "☹",
-    "name": "frowning face",
-    "unicode": "U+2639"
+    "emoji": "🫤",
+    "name": "dotted line face",
+    "unicode": "U+1FAE4"
   },
   {
     "id": 69,
@@ -571,9 +571,9 @@
   },
   {
     "id": 96,
-    "emoji": "☠",
-    "name": "skull and crossbones",
-    "unicode": "U+2620"
+    "emoji": "🫡",
+    "name": "saluting face",
+    "unicode": "U+1FAE1"
   },
   {
     "id": 97,
